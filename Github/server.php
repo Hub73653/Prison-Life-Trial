@@ -8,7 +8,7 @@ $hwidTypes = array("Syn-Fingerprint", "Exploit-Guid", "Proto-User-Identifier", "
 $database = array(
 	array(
 		"key" => "key_sentinel",
-		"hwid" => "",
+		"hwid" => "2411b2bca1317eb42834dde7868e1bf4d7daf4a8da88bc0a7354900e1054afa5912c9dfe6b5f5dc32fda042435503bf251173a44b36886a32613af0145d4db2f",
 	),
 	array(
 		"key" => "key_sirhurt",
